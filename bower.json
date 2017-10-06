@@ -1,0 +1,29 @@
+{
+  "name": "bower",
+  "description": "seed",
+  "main": "src/main.js",
+  "authors": [
+    "Vikas"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "no"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "angular-sanitize": "^1.6.4",
+    "angular-ui-router": "^1.0.5",
+    "ngstorage": "^0.3.11"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_component",
+    "test",
+    "tests"
+  ]
+}
